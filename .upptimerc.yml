@@ -9,6 +9,8 @@ sites:
     url: $ATLASPOSTING_URL
   - name: Atlasposting RISKMAPS service
     url: $MAPS_URL
+    headers:
+      - "Authorization: Api-Key $MAPS_API_SECRET"
   - name: Atlasposting Nominatim maps service
     url: $NOMINATIM_URL
     headers:
