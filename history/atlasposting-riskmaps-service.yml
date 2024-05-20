@@ -1,7 +1,7 @@
 url: $MAPS_URL
-status: down
-code: 403
-responseTime: 407
-lastUpdated: 2024-05-20T10:35:15.300Z
+status: up
+code: 200
+responseTime: 831
+lastUpdated: 2024-05-20T10:44:47.208Z
 startTime: 2024-05-20T10:35:14.588Z
 generator: Upptime <https://github.com/upptime/upptime>
