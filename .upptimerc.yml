@@ -4,17 +4,17 @@ repo: uptime_monitor # The name of this repository
 
 sites:
   - name: Atlasposting API
-    url: https://gateway.atlasposting.com/health-check/
+    url: $ATLASPOSTING_API_URL
   - name: Atlasposting Front end
-    url: https://atlasposting.com
+    url: $ATLASPOSTING_URL
   - name: Europosting (Legacy)
-    url: https://posting.arlettipartners.com/
+    url: $POSTING_LEGACY_URL
   - name: Arletti&Partners
     url: https://arlettipartners.com/
   - name: AEPCLOUD
-    url: https://www.aepcloud.com/
+    url: $AEPCLOUD_URL
   - name: A&P DATA
-    url: https://www.aepdata.com/
+    url: $AEPDATA_URL
 
 
 status-website:
