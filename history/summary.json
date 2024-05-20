@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-riskmaps-service",
     "status": "up",
-    "uptime": "1.39%",
-    "uptimeDay": "1.39%",
-    "uptimeWeek": "1.39%",
-    "uptimeMonth": "1.39%",
-    "uptimeYear": "1.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 619,
     "timeWeek": 619,
     "timeMonth": 619,
     "timeYear": 619,
-    "dailyMinutesDown": {
-      "2024-05-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Atlasposting Nominatim maps service",
