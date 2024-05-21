@@ -15,6 +15,10 @@ sites:
     url: $NOMINATIM_URL
     headers:
       - "X-Api-Key: $NOMINATIM_SECRET"
+  - name: Changedetection Service
+    url: $CHANGEDETECTION_URL
+  - name: Browserless Service
+    url: $BROWSERLESS_URL
   - name: Atlasposting Develop API
     url: $ATLASPOSTING_DEVELOP_URL
   - name: posting (Legacy)
