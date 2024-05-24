@@ -1,7 +1,7 @@
 url: $ATLASPOSTING_API_URL
-status: down
-code: 502
-responseTime: 303
-lastUpdated: 2024-05-24T08:45:12.054Z
+status: up
+code: 200
+responseTime: 378
+lastUpdated: 2024-05-24T08:52:01.938Z
 startTime: 2024-05-21T09:24:39.202Z
 generator: Upptime <https://github.com/upptime/upptime>
