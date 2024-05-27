@@ -76,36 +76,40 @@
     "url": "$CHANGEDETECTION_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "changedetection-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 643,
-    "timeDay": 101,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
-    "dailyMinutesDown": {}
+    "time": 615,
+    "timeDay": 95,
+    "timeWeek": 615,
+    "timeMonth": 615,
+    "timeYear": 615,
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   },
   {
     "name": "Browserless Service",
     "url": "$BROWSERLESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "browserless-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 93,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
-    "dailyMinutesDown": {}
+    "time": 660,
+    "timeDay": 92,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 660,
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   },
   {
     "name": "Atlasposting Develop API",
