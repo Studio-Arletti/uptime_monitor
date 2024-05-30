@@ -4,18 +4,20 @@
     "url": "$ATLASPOSTING_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-gateway-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 874,
-    "timeDay": 481,
-    "timeWeek": 512,
+    "timeDay": 619,
+    "timeWeek": 523,
     "timeMonth": 874,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-30": 2
+    }
   },
   {
     "name": "Atlasposting Front end",
@@ -76,18 +78,20 @@
     "url": "$CHANGEDETECTION_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "changedetection-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 138,
-    "timeWeek": 119,
+    "timeDay": 168,
+    "timeWeek": 120,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-30": 0
+    }
   },
   {
     "name": "Browserless Service",
