@@ -1,7 +1,7 @@
 url: $CHANGEDETECTION_URL
-status: up
-code: 200
-responseTime: 122
-lastUpdated: 2024-05-31T10:52:28.545Z
+status: down
+code: 502
+responseTime: 88
+lastUpdated: 2024-05-31T10:59:12.200Z
 startTime: 2024-05-21T15:16:07.552Z
 generator: Upptime <https://github.com/upptime/upptime>
