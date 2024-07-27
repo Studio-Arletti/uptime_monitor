@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-riskmaps-service",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.93%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 730,
     "timeDay": 616,
     "timeWeek": 657,
@@ -141,10 +141,10 @@
     "url": "$POSTING_LEGACY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "posting-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
@@ -152,7 +152,9 @@
     "timeWeek": 467,
     "timeMonth": 525,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-27": 1
+    }
   },
   {
     "name": "Arletti&Partners",
