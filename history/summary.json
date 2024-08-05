@@ -63,9 +63,9 @@
     "url": "$NOMINATIM_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-nominatim-maps-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 405,
     "timeMonth": 370,
     "timeYear": 349,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "Changedetection Service",
