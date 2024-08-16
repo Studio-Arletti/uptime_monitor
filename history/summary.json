@@ -197,19 +197,19 @@
     "url": "$AEPDATA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-and-p-data",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 1119,
-    "timeWeek": 962,
-    "timeMonth": 690,
-    "timeYear": 666,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 674,
+    "timeDay": 1222,
+    "timeWeek": 1020,
+    "timeMonth": 713,
+    "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-08-16": 0
+      "2024-08-16": 31
     }
   }
 ]
