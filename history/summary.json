@@ -128,18 +128,20 @@
     "url": "$ATLASPOSTING_DEVELOP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-develop-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 520,
-    "timeWeek": 354,
-    "timeMonth": 366,
+    "timeDay": 416,
+    "timeWeek": 349,
+    "timeMonth": 364,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-21": 0
+    }
   },
   {
     "name": "posting (Legacy)",
