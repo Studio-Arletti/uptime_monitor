@@ -1,7 +1,7 @@
 url: $ATLASPOSTING_DEVELOP_URL
-status: up
-code: 200
-responseTime: 520
-lastUpdated: 2024-09-20T23:05:17.789Z
+status: down
+code: 502
+responseTime: 311
+lastUpdated: 2024-09-21T08:30:29.468Z
 startTime: 2024-05-21T09:24:42.979Z
 generator: Upptime <https://github.com/upptime/upptime>
