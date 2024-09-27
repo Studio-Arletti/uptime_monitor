@@ -19,6 +19,8 @@ sites:
     url: $CHANGEDETECTION_URL
   - name: Browserless Service
     url: $BROWSERLESS_URL
+  - name: Weblate translation app
+    url: $WEBLATE_URL
   - name: Atlasposting Develop API
     url: $ATLASPOSTING_DEVELOP_URL
   - name: posting (Legacy)
@@ -45,6 +47,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: A&P
+      href: https://arlettipartners.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
