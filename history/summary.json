@@ -42,9 +42,9 @@
     "url": "$MAPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-riskmaps-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
@@ -54,6 +54,7 @@
     "timeMonth": 748,
     "timeYear": 731,
     "dailyMinutesDown": {
+      "2024-10-20": 0,
       "2024-07-22": 529,
       "2024-07-21": 587
     }
