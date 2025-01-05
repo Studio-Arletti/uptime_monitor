@@ -1,7 +1,7 @@
 url: $NOMINATIM_URL
 status: up
 code: 200
-responseTime: 292
-lastUpdated: 2025-01-04T23:05:20.117Z
+responseTime: 241
+lastUpdated: 2025-01-05T23:05:01.147Z
 startTime: 2024-05-20T10:35:17.412Z
 generator: Upptime <https://github.com/upptime/upptime>
