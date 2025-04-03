@@ -72,11 +72,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-nominatim-maps-service",
     "status": "up",
-    "uptime": "93.59%",
+    "uptime": "93.60%",
     "uptimeDay": "97.65%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "71.26%",
-    "uptimeYear": "93.59%",
+    "uptimeYear": "93.60%",
     "time": 340,
     "timeDay": 346,
     "timeWeek": 312,
@@ -223,9 +223,9 @@
     "url": "https://arlettipartners.com/",
     "icon": "https://icons.duckduckgo.com/ip3/arlettipartners.com.ico",
     "slug": "arletti-and-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -234,7 +234,9 @@
     "timeWeek": 354,
     "timeMonth": 319,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "AEPCLOUD",
