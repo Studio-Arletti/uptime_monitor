@@ -223,19 +223,19 @@
     "url": "https://arlettipartners.com/",
     "icon": "https://icons.duckduckgo.com/ip3/arlettipartners.com.ico",
     "slug": "arletti-and-partners",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 367,
-    "timeWeek": 354,
-    "timeMonth": 319,
-    "timeYear": 409,
+    "time": 493,
+    "timeDay": 14080,
+    "timeWeek": 3784,
+    "timeMonth": 1178,
+    "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 19
     }
   },
   {
