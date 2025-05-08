@@ -72,11 +72,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-nominatim-maps-service",
     "status": "up",
-    "uptime": "94.23%",
+    "uptime": "94.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.23%",
+    "uptimeYear": "94.24%",
     "time": 338,
     "timeDay": 439,
     "timeWeek": 334,
@@ -164,9 +164,9 @@
     "url": "$WEBLATE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "weblate-translation-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,7 +175,9 @@
     "timeWeek": 510,
     "timeMonth": 441,
     "timeYear": 448,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 0
+    }
   },
   {
     "name": "Atlasposting Develop API",
