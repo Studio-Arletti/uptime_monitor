@@ -1,7 +1,7 @@
 url: $WEBLATE_URL
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-08T23:08:05.942Z
+code: 502
+responseTime: 499
+lastUpdated: 2025-05-09T23:05:47.950Z
 startTime: 2024-09-27T09:09:51.882Z
 generator: Upptime <https://github.com/upptime/upptime>
