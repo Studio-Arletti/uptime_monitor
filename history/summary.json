@@ -373,19 +373,19 @@
     "url": "$AEPCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aepcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1037,
-    "timeDay": 1233,
-    "timeWeek": 1110,
-    "timeMonth": 1109,
-    "timeYear": 1036,
+    "time": 1045,
+    "timeDay": 3078,
+    "timeWeek": 1587,
+    "timeMonth": 1229,
+    "timeYear": 1046,
     "dailyMinutesDown": {
-      "2025-11-28": 0
+      "2025-11-28": 7
     }
   },
   {
