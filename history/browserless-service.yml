@@ -1,7 +1,7 @@
 url: $BROWSERLESS_URL
-status: down
-code: 503
-responseTime: 172
-lastUpdated: 2025-12-05T01:07:26.437Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2025-12-05T01:48:34.962Z
 startTime: 2024-05-21T15:16:08.122Z
 generator: Upptime <https://github.com/upptime/upptime>
