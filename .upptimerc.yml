@@ -23,8 +23,6 @@ sites:
     url: $WEBLATE_URL
   - name: Atlasposting Develop API
     url: $ATLASPOSTING_DEVELOP_URL
-  - name: posting (Legacy)
-    url: $POSTING_LEGACY_URL
   - name: Arletti&Partners
     url: https://arlettipartners.com/
   - name: AEPCLOUD
