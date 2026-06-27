@@ -4,19 +4,20 @@
     "url": "$ATLASPOSTING_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-gateway-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 493,
     "timeDay": 581,
     "timeWeek": 530,
     "timeMonth": 464,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-06-03": 52
+      "2026-06-03": 52,
+      "2026-06-27": 29
     }
   },
   {
@@ -42,11 +43,11 @@
     "url": "$MAPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-riskmaps-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 416,
     "timeDay": 467,
@@ -54,7 +55,8 @@
     "timeMonth": 385,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2026-06-03": 47
+      "2026-06-03": 47,
+      "2026-06-27": 25
     }
   },
   {
@@ -136,12 +138,12 @@
     "url": "$CHANGEDETECTION_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "changedetection-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.91%",
     "time": 160,
     "timeDay": 446,
     "timeWeek": 429,
@@ -157,7 +159,8 @@
       "2026-01-15": 21,
       "2026-01-18": 44,
       "2026-04-17": 59,
-      "2026-06-03": 42
+      "2026-06-03": 42,
+      "2026-06-27": 20
     }
   },
   {
@@ -165,12 +168,12 @@
     "url": "$BROWSERLESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "browserless-service",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.97%",
     "time": 148,
     "timeDay": 458,
     "timeWeek": 468,
@@ -179,7 +182,8 @@
     "dailyMinutesDown": {
       "2025-09-23": 42,
       "2025-12-05": 41,
-      "2026-06-03": 38
+      "2026-06-03": 38,
+      "2026-06-27": 15
     }
   },
   {
@@ -187,13 +191,13 @@
     "url": "$WEBLATE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "weblate-translation-app",
-    "status": "up",
-    "uptime": "80.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "80.13%",
-    "time": 468,
+    "status": "down",
+    "uptime": "80.94%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "80.26%",
+    "time": 469,
     "timeDay": 600,
     "timeWeek": 502,
     "timeMonth": 437,
@@ -271,7 +275,8 @@
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
-      "2026-06-03": 33
+      "2026-06-03": 33,
+      "2026-06-27": 10
     }
   },
   {
@@ -279,11 +284,11 @@
     "url": "$ATLASPOSTING_DEVELOP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-develop-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 373,
     "timeDay": 435,
@@ -292,7 +297,8 @@
     "timeYear": 377,
     "dailyMinutesDown": {
       "2025-11-19": 28,
-      "2026-06-03": 28
+      "2026-06-03": 28,
+      "2026-06-27": 5
     }
   },
   {
@@ -324,9 +330,9 @@
     "url": "$AEPCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aepcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -338,7 +344,8 @@
     "dailyMinutesDown": {
       "2026-01-25": 32,
       "2026-03-06": 53,
-      "2026-06-03": 23
+      "2026-06-03": 23,
+      "2026-06-27": 0
     }
   },
   {
