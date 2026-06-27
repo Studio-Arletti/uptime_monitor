@@ -4,11 +4,11 @@
     "url": "$ATLASPOSTING_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-gateway-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 493,
     "timeDay": 594,
@@ -17,7 +17,7 @@
     "timeYear": 492,
     "dailyMinutesDown": {
       "2026-06-03": 52,
-      "2026-06-27": 30
+      "2026-06-27": 59
     }
   },
   {
@@ -43,12 +43,12 @@
     "url": "$MAPS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-riskmaps-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.98%",
     "time": 416,
     "timeDay": 482,
     "timeWeek": 425,
@@ -56,7 +56,7 @@
     "timeYear": 422,
     "dailyMinutesDown": {
       "2026-06-03": 47,
-      "2026-06-27": 25
+      "2026-06-27": 50
     }
   },
   {
@@ -138,11 +138,11 @@
     "url": "$CHANGEDETECTION_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "changedetection-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 161,
     "timeDay": 519,
@@ -160,7 +160,7 @@
       "2026-01-18": 44,
       "2026-04-17": 59,
       "2026-06-03": 42,
-      "2026-06-27": 20
+      "2026-06-27": 40
     }
   },
   {
@@ -168,13 +168,13 @@
     "url": "$BROWSERLESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "browserless-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
-    "time": 149,
+    "time": 150,
     "timeDay": 522,
     "timeWeek": 483,
     "timeMonth": 409,
@@ -183,7 +183,7 @@
       "2025-09-23": 42,
       "2025-12-05": 41,
       "2026-06-03": 38,
-      "2026-06-27": 16
+      "2026-06-27": 31
     }
   },
   {
@@ -191,13 +191,13 @@
     "url": "$WEBLATE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "weblate-translation-app",
-    "status": "up",
-    "uptime": "80.94%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
+    "status": "down",
+    "uptime": "80.95%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "80.26%",
-    "time": 469,
+    "uptimeYear": "80.35%",
+    "time": 468,
     "timeDay": 589,
     "timeWeek": 511,
     "timeMonth": 441,
@@ -276,7 +276,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2026-06-03": 33,
-      "2026-06-27": 11
+      "2026-06-27": 10
     }
   },
   {
@@ -284,10 +284,10 @@
     "url": "$ATLASPOSTING_DEVELOP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-develop-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 373,
@@ -298,7 +298,7 @@
     "dailyMinutesDown": {
       "2025-11-19": 28,
       "2026-06-03": 28,
-      "2026-06-27": 6
+      "2026-06-27": 5
     }
   },
   {
@@ -330,13 +330,13 @@
     "url": "$AEPCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aepcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1136,
+    "time": 1137,
     "timeDay": 1721,
     "timeWeek": 1559,
     "timeMonth": 1426,
@@ -345,7 +345,7 @@
       "2026-01-25": 32,
       "2026-03-06": 53,
       "2026-06-03": 23,
-      "2026-06-27": 1
+      "2026-06-27": 0
     }
   },
   {
