@@ -4,16 +4,16 @@
     "url": "$ATLASPOSTING_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-gateway-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "97.92%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 485,
-    "timeDay": 0,
-    "timeWeek": 448,
-    "timeMonth": 455,
+    "timeDay": 362,
+    "timeWeek": 436,
+    "timeMonth": 452,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2026-06-03": 52,
@@ -47,7 +47,7 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "98.25%",
-    "uptimeWeek": "62.81%",
+    "uptimeWeek": "63.24%",
     "uptimeMonth": "90.74%",
     "uptimeYear": "99.22%",
     "time": 439,
@@ -82,7 +82,6 @@
     "timeMonth": 313,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-07-25": 248,
       "2025-07-31": 35,
       "2025-08-04": 45,
       "2025-08-07": 41,
@@ -191,10 +190,10 @@
     "slug": "weblate-translation-app",
     "status": "up",
     "uptime": "81.73%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "87.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "87.80%",
     "time": 469,
     "timeDay": 425,
     "timeWeek": 435,
@@ -245,9 +244,7 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
-      "2026-06-03": 33,
-      "2026-07-24": 11
+      "2026-06-03": 33
     }
   },
   {
@@ -257,9 +254,9 @@
     "slug": "atlasposting-develop-api",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 372,
     "timeDay": 224,
@@ -268,8 +265,7 @@
     "timeYear": 373,
     "dailyMinutesDown": {
       "2025-11-19": 28,
-      "2026-06-03": 28,
-      "2026-07-24": 6
+      "2026-06-03": 28
     }
   },
   {
@@ -305,8 +301,8 @@
     "slug": "aepcloud",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1153,
@@ -317,8 +313,7 @@
     "dailyMinutesDown": {
       "2026-01-25": 32,
       "2026-03-06": 53,
-      "2026-06-03": 23,
-      "2026-07-24": 1
+      "2026-06-03": 23
     }
   },
   {
@@ -338,7 +333,6 @@
     "timeMonth": 977,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-07-25": 41,
       "2025-12-05": 22,
       "2026-03-09": 20,
       "2026-06-06": 9,
