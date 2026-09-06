@@ -76,7 +76,7 @@
     "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.18%",
+    "uptimeMonth": "89.19%",
     "uptimeYear": "91.73%",
     "time": 476,
     "timeDay": 394,
@@ -231,17 +231,17 @@
     "url": "https://arlettipartners.com/",
     "icon": "https://icons.duckduckgo.com/ip3/arlettipartners.com.ico",
     "slug": "arletti-and-partners",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 621,
-    "timeDay": 292,
-    "timeWeek": 785,
-    "timeMonth": 534,
-    "timeYear": 652,
+    "timeDay": 289,
+    "timeWeek": 722,
+    "timeMonth": 527,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2025-12-05": 22,
       "2026-01-14": 22,
@@ -250,7 +250,7 @@
       "2026-06-05": 18,
       "2026-07-12": 27,
       "2026-07-14": 39,
-      "2026-09-06": 1
+      "2026-09-06": 7
     }
   },
   {
@@ -280,17 +280,17 @@
     "url": "$AEPDATA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-and-p-data",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
     "time": 906,
-    "timeDay": 681,
-    "timeWeek": 1471,
-    "timeMonth": 974,
-    "timeYear": 916,
+    "timeDay": 593,
+    "timeWeek": 1366,
+    "timeMonth": 958,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2025-12-05": 22,
       "2026-03-09": 20,
@@ -300,7 +300,7 @@
       "2026-06-15": 120,
       "2026-07-12": 27,
       "2026-09-02": 30,
-      "2026-09-06": 1
+      "2026-09-06": 6
     }
   }
 ]
