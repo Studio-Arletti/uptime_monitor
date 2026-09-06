@@ -1,7 +1,7 @@
 url: $AEPDATA_URL
-status: down
-code: 403
-responseTime: 376
-lastUpdated: 2026-09-06T02:49:43.878Z
+status: up
+code: 200
+responseTime: 418
+lastUpdated: 2026-09-06T02:56:07.737Z
 startTime: 2024-05-20T08:51:14.386Z
 generator: Upptime <https://github.com/upptime/upptime>
