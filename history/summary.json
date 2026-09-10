@@ -72,17 +72,17 @@
     "url": "$NOMINATIM_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "atlasposting-nominatim-maps-service",
-    "status": "down",
+    "status": "up",
     "uptime": "93.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "91.76%",
     "time": 468,
-    "timeDay": 315,
-    "timeWeek": 330,
-    "timeMonth": 345,
-    "timeYear": 358,
+    "timeDay": 287,
+    "timeWeek": 323,
+    "timeMonth": 342,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2026-01-05": 16,
       "2026-01-26": 119,
@@ -126,7 +126,7 @@
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 290,
-      "2026-09-10": 0
+      "2026-09-10": 3
     }
   },
   {
