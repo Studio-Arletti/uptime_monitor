@@ -74,10 +74,10 @@
     "slug": "atlasposting-nominatim-maps-service",
     "status": "down",
     "uptime": "93.53%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.76%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "91.75%",
     "time": 459,
     "timeDay": 277,
     "timeWeek": 326,
@@ -126,7 +126,7 @@
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 290,
-      "2026-09-26": 0
+      "2026-09-26": 35
     }
   },
   {
